@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("UI"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf5bc373c4dc378e6abc110591d7bf29ba94eaa"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6616a06d12db17e78e567a017fc7215030ff30"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("UI"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("UI"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

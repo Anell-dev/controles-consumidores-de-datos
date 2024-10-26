@@ -26,45 +26,96 @@ Partial Class Principal
         cbFields = New ComboBox()
         lbFields = New ListBox()
         datagw = New DataGridView()
+        btnInsertar = New Button()
+        btnActualizar = New Button()
+        btnEliminar = New Button()
         CType(datagw, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' txtFields
         ' 
-        txtFields.Location = New Point(64, 113)
+        txtFields.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        txtFields.ForeColor = SystemColors.Window
+        txtFields.Location = New Point(26, 31)
         txtFields.Name = "txtFields"
         txtFields.Size = New Size(160, 23)
         txtFields.TabIndex = 0
         ' 
         ' cbFields
         ' 
+        cbFields.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        cbFields.ForeColor = SystemColors.Window
         cbFields.FormattingEnabled = True
-        cbFields.Location = New Point(64, 170)
+        cbFields.Location = New Point(26, 77)
         cbFields.Name = "cbFields"
         cbFields.Size = New Size(160, 23)
         cbFields.TabIndex = 1
         ' 
         ' lbFields
         ' 
+        lbFields.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        lbFields.ForeColor = SystemColors.Window
         lbFields.FormattingEnabled = True
         lbFields.ItemHeight = 15
-        lbFields.Location = New Point(309, 332)
+        lbFields.Location = New Point(26, 131)
         lbFields.Name = "lbFields"
-        lbFields.Size = New Size(447, 94)
+        lbFields.Size = New Size(236, 154)
         lbFields.TabIndex = 2
         ' 
         ' datagw
         ' 
-        datagw.Location = New Point(309, 22)
+        datagw.BackgroundColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        datagw.GridColor = SystemColors.Window
+        datagw.Location = New Point(305, 31)
         datagw.Name = "datagw"
-        datagw.Size = New Size(461, 285)
+        datagw.Size = New Size(404, 212)
         datagw.TabIndex = 3
+        ' 
+        ' btnInsertar
+        ' 
+        btnInsertar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnInsertar.FlatStyle = FlatStyle.Flat
+        btnInsertar.ForeColor = SystemColors.ControlLightLight
+        btnInsertar.Location = New Point(320, 299)
+        btnInsertar.Name = "btnInsertar"
+        btnInsertar.Size = New Size(75, 23)
+        btnInsertar.TabIndex = 4
+        btnInsertar.Text = "Insertar"
+        btnInsertar.UseVisualStyleBackColor = False
+        ' 
+        ' btnActualizar
+        ' 
+        btnActualizar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnActualizar.FlatStyle = FlatStyle.Flat
+        btnActualizar.ForeColor = SystemColors.ControlLightLight
+        btnActualizar.Location = New Point(414, 299)
+        btnActualizar.Name = "btnActualizar"
+        btnActualizar.Size = New Size(75, 23)
+        btnActualizar.TabIndex = 5
+        btnActualizar.Text = "Actualizar"
+        btnActualizar.UseVisualStyleBackColor = False
+        ' 
+        ' btnEliminar
+        ' 
+        btnEliminar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnEliminar.FlatStyle = FlatStyle.Flat
+        btnEliminar.ForeColor = SystemColors.ControlLight
+        btnEliminar.Location = New Point(512, 299)
+        btnEliminar.Name = "btnEliminar"
+        btnEliminar.Size = New Size(75, 23)
+        btnEliminar.TabIndex = 6
+        btnEliminar.Text = "Eliminar"
+        btnEliminar.UseVisualStyleBackColor = False
         ' 
         ' Principal
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        BackColor = Color.FromArgb(CByte(25), CByte(27), CByte(40))
+        ClientSize = New Size(734, 359)
+        Controls.Add(btnEliminar)
+        Controls.Add(btnActualizar)
+        Controls.Add(btnInsertar)
         Controls.Add(datagw)
         Controls.Add(lbFields)
         Controls.Add(cbFields)
@@ -80,5 +131,8 @@ Partial Class Principal
     Friend WithEvents cbFields As ComboBox
     Friend WithEvents lbFields As ListBox
     Friend WithEvents datagw As DataGridView
+    Friend WithEvents btnInsertar As Button
+    Friend WithEvents btnActualizar As Button
+    Friend WithEvents btnEliminar As Button
 
 End Class

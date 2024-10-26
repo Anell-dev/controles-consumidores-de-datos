@@ -8,6 +8,34 @@ Public Class Principal
 
         Dim data As DataTable = dataService.GetAllCustomers()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         ' Enlace Simple (TextBox, ComboBox, ListBox)
         cbFields.DataSource = data
         cbFields.DisplayMember = "CustomerName"
