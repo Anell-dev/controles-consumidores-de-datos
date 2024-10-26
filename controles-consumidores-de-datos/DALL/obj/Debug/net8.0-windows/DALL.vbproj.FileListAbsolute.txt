@@ -11,3 +11,16 @@ C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumido
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\refint\DALL.dll
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.pdb
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\ref\DALL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\bin\Debug\net8.0-windows\DALL.deps.json
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\bin\Debug\net8.0-windows\DALL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\bin\Debug\net8.0-windows\DALL.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.vbproj.AssemblyReference.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.AssemblyInfoInputs.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.AssemblyInfo.vb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.vbproj.CoreCompileInputs.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.sourcelink.json
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\refint\DALL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\DALL.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\DALL\obj\Debug\net8.0-windows\ref\DALL.dll

@@ -1651,19 +1651,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\braya\\.nuget\\packages\\": {}
+    "C:\\Users\\Anelx\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\braya\\source\\Github\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\UI.vbproj",
+      "projectUniqueName": "C:\\Users\\Anelx\\source\\repos\\Nueva carpeta\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\UI.vbproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\braya\\source\\Github\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\UI.vbproj",
-      "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\braya\\source\\Github\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\obj\\",
+      "projectPath": "C:\\Users\\Anelx\\source\\repos\\Nueva carpeta\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\UI.vbproj",
+      "packagesPath": "C:\\Users\\Anelx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anelx\\source\\repos\\Nueva carpeta\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anelx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1671,14 +1671,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\braya\\source\\Github\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\BLL\\BLL.vbproj": {
-              "projectPath": "C:\\Users\\braya\\source\\Github\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\BLL\\BLL.vbproj"
+            "C:\\Users\\Anelx\\source\\repos\\Nueva carpeta\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\BLL\\BLL.vbproj": {
+              "projectPath": "C:\\Users\\Anelx\\source\\repos\\Nueva carpeta\\controles-consumidores-de-datos\\controles-consumidores-de-datos\\BLL\\BLL.vbproj"
             }
           }
         }
@@ -1716,7 +1717,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

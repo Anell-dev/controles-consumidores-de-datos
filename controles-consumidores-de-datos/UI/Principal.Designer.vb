@@ -26,9 +26,11 @@ Partial Class Principal
         cbFields = New ComboBox()
         lbFields = New ListBox()
         datagw = New DataGridView()
-        btnInsertar = New Button()
-        btnActualizar = New Button()
-        btnEliminar = New Button()
+        btnAdd = New Button()
+        btnUpdate = New Button()
+        btnDelete = New Button()
+        txtDetails = New TextBox()
+        txtName = New TextBox()
         CType(datagw, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -68,54 +70,70 @@ Partial Class Principal
         datagw.GridColor = SystemColors.Window
         datagw.Location = New Point(305, 31)
         datagw.Name = "datagw"
-        datagw.Size = New Size(404, 212)
+        datagw.Size = New Size(607, 212)
         datagw.TabIndex = 3
         ' 
-        ' btnInsertar
+        ' btnAdd
         ' 
-        btnInsertar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
-        btnInsertar.FlatStyle = FlatStyle.Flat
-        btnInsertar.ForeColor = SystemColors.ControlLightLight
-        btnInsertar.Location = New Point(320, 299)
-        btnInsertar.Name = "btnInsertar"
-        btnInsertar.Size = New Size(75, 23)
-        btnInsertar.TabIndex = 4
-        btnInsertar.Text = "Insertar"
-        btnInsertar.UseVisualStyleBackColor = False
+        btnAdd.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnAdd.FlatStyle = FlatStyle.Flat
+        btnAdd.ForeColor = SystemColors.ControlLightLight
+        btnAdd.Location = New Point(320, 299)
+        btnAdd.Name = "btnAdd"
+        btnAdd.Size = New Size(75, 23)
+        btnAdd.TabIndex = 4
+        btnAdd.Text = "Insertar"
+        btnAdd.UseVisualStyleBackColor = False
         ' 
-        ' btnActualizar
+        ' btnUpdate
         ' 
-        btnActualizar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
-        btnActualizar.FlatStyle = FlatStyle.Flat
-        btnActualizar.ForeColor = SystemColors.ControlLightLight
-        btnActualizar.Location = New Point(414, 299)
-        btnActualizar.Name = "btnActualizar"
-        btnActualizar.Size = New Size(75, 23)
-        btnActualizar.TabIndex = 5
-        btnActualizar.Text = "Actualizar"
-        btnActualizar.UseVisualStyleBackColor = False
+        btnUpdate.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnUpdate.FlatStyle = FlatStyle.Flat
+        btnUpdate.ForeColor = SystemColors.ControlLightLight
+        btnUpdate.Location = New Point(414, 299)
+        btnUpdate.Name = "btnUpdate"
+        btnUpdate.Size = New Size(75, 23)
+        btnUpdate.TabIndex = 5
+        btnUpdate.Text = "Actualizar"
+        btnUpdate.UseVisualStyleBackColor = False
         ' 
-        ' btnEliminar
+        ' btnDelete
         ' 
-        btnEliminar.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
-        btnEliminar.FlatStyle = FlatStyle.Flat
-        btnEliminar.ForeColor = SystemColors.ControlLight
-        btnEliminar.Location = New Point(512, 299)
-        btnEliminar.Name = "btnEliminar"
-        btnEliminar.Size = New Size(75, 23)
-        btnEliminar.TabIndex = 6
-        btnEliminar.Text = "Eliminar"
-        btnEliminar.UseVisualStyleBackColor = False
+        btnDelete.BackColor = Color.FromArgb(CByte(43), CByte(45), CByte(61))
+        btnDelete.FlatStyle = FlatStyle.Flat
+        btnDelete.ForeColor = SystemColors.ControlLight
+        btnDelete.Location = New Point(512, 299)
+        btnDelete.Name = "btnDelete"
+        btnDelete.Size = New Size(75, 23)
+        btnDelete.TabIndex = 6
+        btnDelete.Text = "Eliminar"
+        btnDelete.UseVisualStyleBackColor = False
+        ' 
+        ' txtDetails
+        ' 
+        txtDetails.Location = New Point(657, 300)
+        txtDetails.Name = "txtDetails"
+        txtDetails.Size = New Size(145, 23)
+        txtDetails.TabIndex = 7
+        ' 
+        ' txtName
+        ' 
+        txtName.Location = New Point(657, 262)
+        txtName.Name = "txtName"
+        txtName.Size = New Size(145, 23)
+        txtName.TabIndex = 8
         ' 
         ' Principal
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(25), CByte(27), CByte(40))
-        ClientSize = New Size(734, 359)
-        Controls.Add(btnEliminar)
-        Controls.Add(btnActualizar)
-        Controls.Add(btnInsertar)
+        ClientSize = New Size(951, 359)
+        Controls.Add(txtName)
+        Controls.Add(txtDetails)
+        Controls.Add(btnDelete)
+        Controls.Add(btnUpdate)
+        Controls.Add(btnAdd)
         Controls.Add(datagw)
         Controls.Add(lbFields)
         Controls.Add(cbFields)
@@ -131,8 +149,10 @@ Partial Class Principal
     Friend WithEvents cbFields As ComboBox
     Friend WithEvents lbFields As ListBox
     Friend WithEvents datagw As DataGridView
-    Friend WithEvents btnInsertar As Button
-    Friend WithEvents btnActualizar As Button
-    Friend WithEvents btnEliminar As Button
+    Friend WithEvents btnAdd As Button
+    Friend WithEvents btnUpdate As Button
+    Friend WithEvents btnDelete As Button
+    Friend WithEvents txtDetails As TextBox
+    Friend WithEvents txtName As TextBox
 
 End Class

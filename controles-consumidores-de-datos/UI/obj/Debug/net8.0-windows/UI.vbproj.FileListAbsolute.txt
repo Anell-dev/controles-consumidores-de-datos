@@ -34,3 +34,39 @@ C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumido
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\DALL.pdb
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.AssemblyReference.cache
 C:\Users\braya\source\Github\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.Up2Date
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\DALL.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\bin\Debug\net8.0-windows\DALL.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.AssemblyReference.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.Principal.resources
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.GenerateResource.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.vb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.sourcelink.json
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.vbproj.Up2Date
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Anelx\source\repos\Nueva carpeta\controles-consumidores-de-datos\controles-consumidores-de-datos\UI\obj\Debug\net8.0-windows\ref\UI.dll
